@@ -9,15 +9,15 @@ Getting Started:
 
 Prerequisites: 
 
-```Python 3 or above version```
+```Python 3 or +```
 
 Installation: 
 
-Clone the repository: git clone ```https://github.com/your-username/rsa-encryption-decryption-gui.git```
+Clone the repository: git clone ```https://github.com/your-username/rsaalgorithmusingtkinter.git```
 
-Navigate to the project directory: ```cd rsa-encryption-decryption-gui```
+Navigate to the project directory: ```cd rsaalgorithmusingtkinter```
 
-Run the application: ```python rsaimplementation( your file name ).py```
+Run the application: ```python rsaalgorithmusingtkinter( your file name ).py```
 
 Features:   
 Input two prime numbers and a message for encryption.   
