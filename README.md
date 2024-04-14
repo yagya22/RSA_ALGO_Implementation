@@ -1,23 +1,22 @@
-# RSA_ALGO_Implementation
+# RSA_ALGO_Implementation   
 
-RSA Encryption & Decryption GUI
-A simple GUI application for performing RSA encryption and decryption.
-Technologies Used
+A simple GUI application for performing RSA encryption and decryption.   
+Technologies Used:   
 ```Python```
 ```Tkinter```
 
-#Getting Started
-Prerequisites
-```Python 3.x```
+#Getting Started.  
+Prerequisites:   
+```Python 3 or above version```
 
-Installation
+Installation:   
 Clone the repository: git clone ```https://github.com/your-username/rsa-encryption-decryption-gui.git```
 
 #Navigate to the project directory: ```cd rsa-encryption-decryption-gui```
 
 Run the application: ```python rsaimplementation( your file name ).py```
 
-Features:
+Features:   
 <pre>
 Input two prime numbers and a message for encryption.
 Calculates possible values for e and d.
