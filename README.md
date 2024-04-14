@@ -17,9 +17,10 @@ Clone the repository: git clone ```https://github.com/your-username/rsa-encrypti
 
 Run the application: ```python rsaimplementation( your file name ).py```
 
-Features
+Features:
+<pre>
 Input two prime numbers and a message for encryption.
 Calculates possible values for e and d.
-Displays the encrypted and decrypted messages.
+Displays the encrypted and decrypted messages.</pre>
 
 
