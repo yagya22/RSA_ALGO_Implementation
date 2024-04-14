@@ -5,11 +5,14 @@ Technologies Used:
 ```Python```   
 ```Tkinter```
 
-Getting Started.  
-Prerequisites:   
+Getting Started: 
+
+Prerequisites: 
+
 ```Python 3 or above version```
 
-Installation:   
+Installation: 
+
 Clone the repository: git clone ```https://github.com/your-username/rsa-encryption-decryption-gui.git```
 
 Navigate to the project directory: ```cd rsa-encryption-decryption-gui```
